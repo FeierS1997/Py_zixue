@@ -13,4 +13,4 @@
             var - sw - ana3 - envs - py411 - bin - python
             此时可以调试py程序
                 -run    运行
-                -debug  调试（建议此模式）
+                -debug  调试（建议此模式)
